@@ -9,6 +9,9 @@ This is a pipeline for arcface learning, designed for retrieval prediction used 
 3. When 2 is done, open `generate_features_chest_x.ipynb` and hit run all
 4. The resulting files will be `chest_x_features.npy` which contains a vector representation of each image in the ChestX dataset and a model called `dense121_feature_extractor.pth`
 5. The two files will be used during inference: https://www.kaggle.com/nvnnghia/final-offline-submission/data?scriptVersionId=56884676
+## Pretrained Model and Feature Download Links
+1. `chest_x_features.npy`: https://www.kaggle.com/underwearfitting/chest-x-features
+2. `dense121_feature_extractor.pth`: https://www.kaggle.com/underwearfitting/feature-extractor
 ## Configuration 
 These notebooks do not require any config files. However, you may want to specify the device_id according to your GPU setups.
 ## Hardware
