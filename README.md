@@ -19,11 +19,11 @@ It can be reproduced using the following:
 ## Requirements
 It can be installed from `requirement.txt` in this repo.
 ## Directory Structure
-├── chestx
-│   ├── images_001
-│   ├── images_002
-│   ├── images_003
-│   ├── ..........
-│   ├── Data_Entry_2017.csv
-├── ranzcr_chestx_arcface_learning.ipynb
-├── generate_features_chest_x.ipynb
+├── chestx    
+│   ├── images_001    
+│   ├── images_002    
+│   ├── images_003    
+│   ├── ..........    
+│   ├── Data_Entry_2017.csv    
+├── ranzcr_chestx_arcface_learning.ipynb    
+├── generate_features_chest_x.ipynb    
