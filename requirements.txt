@@ -1,0 +1,6 @@
+timm==0.3.2
+matplotlib
+pandas
+scikit_learn
+torch==1.7.1
+git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
