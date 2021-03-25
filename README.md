@@ -1,7 +1,7 @@
 ## Summary
 This is a pipeline for arcface learning, designed for retrieval prediction used in our pipeline.
 ## How to run 
-1. Download ChestX dataset(https://www.kaggle.com/nih-chest-xrays) to this directory and name it as chestx. If you have kaggle API, then do:
+1. Download ChestX dataset(https://www.kaggle.com/nih-chest-xrays) to this directory and unzip then name it as `chestx`. If you have kaggle API, then do:
 ```
 ! kaggle datasets download -d nih-chest-xrays/data
 ```
